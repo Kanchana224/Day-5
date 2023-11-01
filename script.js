@@ -80,22 +80,16 @@ const resume=
     "name": "kanchanadevi",
       "email": "kkanchana427@gmail.com",
       "phone": "1234567890",
-      "address": "123 Main Street, City, State, 12345"
-    }
-
-    "education";[
+      "address": "123 Main Street, City, State, 12345",
+      "education": [
       {
         "degree":"Diplomo in ECE",
         "school": "Rc fathima high sec school",
         "graduation_year": 2019
-    }
+        }
 
-    ],
-
-{
-    "languages": ["English","tamil"],
-}
-{
-    skills=["teamwork","communication","problemsolving" ]
+        ],
+     "languages": ["English","tamil"],
+     "skills" :["teamwork","communication","problemsolving" ]
 }
 console.log(resume)
